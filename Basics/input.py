@@ -1,0 +1,26 @@
+name1=input("what is your name?")
+print("welcome", name1)
+print(len(name1))
+
+input("What is your last name?")
+
+print(input("what is your favorite color?"))
+
+name=input("what is your name?")
+lName=input("what is your last name?")
+
+print("Welcome " ,name +" "+ lName)
+print("the lenght of your name is:",len(name))
+#----------------
+email=input("what is your Email address?")
+password=input("Enter your password!")
+print("thank you for sharing your info.")
+
+#----------------
+age=99
+print(len(str(age)))
+#----------------
+phone=778759648
+print(len(str(phone)))
+
+
