@@ -1,6 +1,6 @@
-z=input("what is your name?")
-print("welcome", z)
-# print(len(name))
+name1=input("what is your name?")
+print("welcome", name1)
+# print(len(name1))
 
 # input("What is your last name?")
 
@@ -26,4 +26,5 @@ print("Welcome " ,name +" "+ lName)
 # print("what is your name?")
 
 # input("what is your name?")
+
 
