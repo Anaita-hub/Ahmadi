@@ -1,19 +1,19 @@
-# 🐍 Python Course  
-**Instructor: Anaita Ahmadi**
+# Python Course  
+*Instructor: Anaita Ahmadi*
 
 Learn Python from beginner to advanced with real projects.
 
-## 🚀 What You'll Learn
+## What You'll Learn
 - Python basics & logic  
 - OOP (classes, inheritance)  
 - Data analysis (pandas)  
 - APIs & automation  
 - Real-world projects  
 
-## 🎯 Projects
+##  Projects
 - Bank System  
 - To-Do App  
 - Games  
 
-## 🛠️ Requirements
+##  Requirements
 Basic computer skills (no prior coding needed)
